@@ -1,6 +1,10 @@
 # ML-Curriculum
 Aggregated resources for learning data science, machine learning and deep learning.
 
+
+***[Update 10th August 2020] -***  Kaggle has recently launched [30 Days of ML](https://www.kaggle.com/thirty-days-of-ml) challenge, where you’ll receive hands-on assignments delivered to your inbox. The goal of these assignments is to rapidly cover the most essential skills needed to get your hands dirty with data. You'll start by learning how to code in Python and quickly learn how to build your first machine learning model. [Start you journey here.](https://github.com/AIML-Club-IIITNR/ML-Curriculum/tree/main/Kaggle%20-%2030DOML)
+
+
 **Data Science libraries:**
 - *Reading resources:*
 Compilation of relevant data science repositories and notebooks. 
@@ -24,3 +28,8 @@ Compilaton of relevant Data Science courses + corresponding codes.
 - Books:
 Links to resources containing copies of DS/ML/AI books.
   - [Repository-1](https://github.com/aliarslanansari/Data-Science-Study/tree/master/Books)
+
+**Amazing repositories:**
+- [Hands on ML](https://github.com/ageron/handson-ml2)
+- [Open Data Science - Where to start ?](https://github.com/open-data-science/ultimate_posts/tree/master/where_to_start)
+
